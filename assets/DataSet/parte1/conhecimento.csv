@@ -1,0 +1,41 @@
+sintoma_1,sintoma_2,sintoma_3,doenca,gravidade,especialidade
+dor no peito,aperto no tórax,dor em repouso,Angina Instável,alta,Cardiologia
+dor no peito ao esforço,melhora com repouso,aperto no peito,Angina Estável,moderada,Cardiologia
+dor no peito,irradiação para o braço esquerdo,suor frio,Infarto Agudo do Miocárdio,altíssima,Cardiologia
+dor no peito,irradiação para o maxilar,sensação de morte iminente,Infarto Agudo do Miocárdio,altíssima,Cardiologia
+dor no peito,irradiação para o pescoço,náusea,Infarto Agudo do Miocárdio,altíssima,Cardiologia
+pressão no peito,suor excessivo,formigamento no braço,Infarto Agudo do Miocárdio,altíssima,Cardiologia
+palpitações,coração acelerado,coração irregular,Fibrilação Atrial,alta,Cardiologia
+coração acelerado,tontura,suor frio,Taquicardia Supraventricular,alta,Cardiologia
+coração batendo devagar,tontura,quase desmaio,Bradicardia,alta,Cardiologia
+palpitações,coração pula batida,falta de ar leve,Extrassístole,moderada,Cardiologia
+cansaço constante,falta de ar,sem fôlego ao esforço,Insuficiência Cardíaca,alta,Cardiologia
+inchaço nas pernas,inchaço nos tornozelos,dificuldade para respirar,Insuficiência Cardíaca,alta,Cardiologia
+falta de ar deitado,precisa de travesseiros para dormir,cansaço,Insuficiência Cardíaca,alta,Cardiologia
+falta de ar noturna,acorda sufocando,tosse seca,Insuficiência Cardíaca Descompensada,altíssima,Cardiologia
+falta de ar progressiva,cansaço ao esforço leve,coração fraco,Insuficiência Cardíaca,alta,Cardiologia
+falta de ar súbita,tosse com sangue,dor no peito ao respirar,Embolia Pulmonar,altíssima,Cardiologia
+pressão alta,dor de cabeça intensa,visão turva,Crise Hipertensiva,alta,Cardiologia
+pressão muito alta,dor no peito leve,visão turva,Emergência Hipertensiva,altíssima,Cardiologia
+pressão elevada,sem sintomas,consulta de rotina,Hipertensão Arterial Controlada,baixa,Cardiologia
+tontura,visão escurecendo,desmaio,Síncope Cardiogênica,alta,Cardiologia
+desmaio sem motivo,fraqueza,tontura frequente,Síncope,alta,Cardiologia
+dor no peito ao respirar,piora ao inspirar,falta de ar,Pericardite,alta,Cardiologia
+dor no peito,febre,piora ao deitar,Pericardite,alta,Cardiologia
+dor em queimação no peito,após refeição,não melhora com antiácido,Síndrome Coronariana Aguda,altíssima,Cardiologia
+dor em queimação no peito,após refeição,melhora com antiácido,Refluxo Gastroesofágico,baixa,Gastroenterologia
+aperto no peito,ansiedade,passa ao se acalmar,Ansiedade com Dor Torácica Funcional,baixa,Psiquiatria
+palpitações,após cafeína,passa sozinho,Arritmia Benigna por Cafeína,baixa,Cardiologia
+cansaço ao esforço,sedentarismo,sem dor no peito,Descondicionamento Físico,baixa,Cardiologia
+formigamento no braço,ao acordar,melhora ao se mover,Compressão Nervosa Postural,baixa,Ortopedia
+dor nas costas,irradia para o peito,piora ao mudar posição,Dor Musculoesquelética,baixa,Ortopedia
+coração acelerado,após exercício intenso,iniciante em treino,Resposta Fisiológica ao Exercício,baixa,Cardiologia
+desconforto no peito,após comer demais,melhora ao sentar ereto,Distensão Gástrica,baixa,Gastroenterologia
+histórico de infarto,desconforto diferente do normal,cansaço exagerado,Síndrome Coronariana Aguda,altíssima,Cardiologia
+coração disparado,fraqueza,dor leve no peito,Taquicardia com Instabilidade,alta,Cardiologia
+falta de ar,tosse seca,acorda à noite,Edema Agudo de Pulmão,altíssima,Cardiologia
+dor no peito,suor frio,náusea,Infarto Agudo do Miocárdio,altíssima,Cardiologia
+palpitações,fraqueza,tontura,Arritmia Cardíaca,alta,Cardiologia
+inchaço nas pernas,cansaço,falta de ar ao esforço leve,Insuficiência Cardíaca Crônica,alta,Cardiologia
+dor no peito,irradiação para o braço direito,suor,Infarto Agudo do Miocárdio,altíssima,Cardiologia
+pressão no peito,dificuldade para respirar,lábios arroxeados,Insuficiência Cardíaca Grave,altíssima,Cardiologia

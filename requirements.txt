@@ -1,0 +1,6 @@
+pandas
+os
+sklearn
+matplotlib
+joblib
+numpy
