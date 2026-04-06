@@ -1,0 +1,38 @@
+.section {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  padding: var(--space-6);
+  margin-bottom: var(--space-6);
+  text-align: center;
+}
+
+.section h1 {
+  font-size: clamp(1.125rem, 3vw, 1.375rem);
+  color: var(--color-primary);
+  margin-bottom: var(--space-4);
+}
+
+.countBadge {
+  display: inline-block;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  background: var(--color-primary-light);
+  border-radius: var(--radius-lg);
+  padding: var(--space-3) var(--space-6);
+  margin-top: var(--space-2);
+}
+
+.message {
+  color: var(--color-text-muted);
+  font-size: 0.9375rem;
+}
+
+.error {
+  color: var(--color-error);
+  background: var(--color-error-bg);
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius);
+  font-size: 0.875rem;
+}

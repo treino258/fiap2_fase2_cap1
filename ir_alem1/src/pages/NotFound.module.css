@@ -1,0 +1,40 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-12) var(--space-4);
+  text-align: center;
+  min-height: 50vh;
+}
+
+.page h1 {
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-4);
+}
+
+.page p {
+  color: var(--color-text-muted);
+  font-size: 1rem;
+  max-width: 400px;
+}
+
+.backLink {
+  display: inline-block;
+  margin-top: var(--space-6);
+  padding: var(--space-3) var(--space-6);
+  background-color: var(--color-primary);
+  color: #ffffff !important;
+  border-radius: var(--radius);
+  font-weight: 600;
+  font-size: 0.9375rem;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.backLink:hover {
+  background-color: var(--color-primary-hover);
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
