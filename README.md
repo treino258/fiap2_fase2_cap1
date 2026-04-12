@@ -247,13 +247,13 @@ pip install -r requirements.txt
 jupyter notebook src/cardioia_fase2.ipynb
 ```
 
-O `requirements.txt` deve conter:
+O `requirements.txt` contém:
 ```
-pandas
-os
-scikit-learn
-matplotlib
-joblib
+pandas==2.3.3
+scikit-learn==1.8.0
+matplotlib==3.10.8
+joblib==1.5.3
+numpy==2.4.1
 ```
 ## Demonstração
 
