@@ -1,6 +1,6 @@
 # Pontos faltantes em relação ao `enunciado.md`
 
-Após analisar o `enunciado.md` e os artefatos do repositório, o projeto está **majoritariamente aderente**, mas ainda há pendências de documentação:
+Após analisar o `enunciado.md` e os artefatos do repositório, o projeto está **em grande parte aderente**, mas ainda há pendências de documentação:
 
 1. **Link do vídeo da Fase 2 não informado no README principal**
    - Arquivo: `README.md`
@@ -16,4 +16,4 @@ Após analisar o `enunciado.md` e os artefatos do repositório, o projeto está 
 
 4. **Lista de integrantes com RM não aparece no README do Ir Além 1**
    - Arquivo: `ir_alem1/README.md`
-   - Observação: o enunciado do Ir Além 1 pede esse item como entregável; no README principal há lista de integrantes, mas no README do subprojeto não.
+   - Observação: no item 7.3 do enunciado, este é um entregável obrigatório do Ir Além 1 (nome completo + RM dos integrantes). No repositório, essa lista existe no `README.md` principal, mas não no README específico do subprojeto.
