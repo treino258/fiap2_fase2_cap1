@@ -81,6 +81,22 @@ cardioia-fase2/
 
 ---
 
+## Ir Além 1 — Portal Front-end (React + Vite)
+
+Módulo web com autenticação simulada, listagem de pacientes, dashboard e agendamento de consultas, desenvolvido para o escopo de interface do projeto CardioIA.
+
+➡️ Documentação específica: [`ir_alem1/README.md`](ir_alem1/README.md)
+
+---
+
+## Ir Além 2 — Classificação de ECG com MLP
+
+Módulo de visão computacional para classificação binária de sinais de ECG (normal vs anormal), com notebook em Google Colab e comparação de arquiteturas.
+
+➡️ Documentação específica: [`ir_alem2/README.md`](ir_alem2/README.md)
+
+---
+
 ## Parte 1 — Sistema Baseado em Regras
 
 ### Como funciona
@@ -258,4 +274,3 @@ numpy==2.4.1
 ## Demonstração
 
 > 🎥 Link do vídeo no YouTube: `[a ser adicionado]`
-
