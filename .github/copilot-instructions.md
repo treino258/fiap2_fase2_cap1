@@ -17,15 +17,15 @@ No CI/CD workflows exist. No test framework exists in any sub-project.
 ### Runtime
 - Python 3.12 (system). The Jupyter notebook (`src/cardioia_fase2.ipynb`) is the main artifact.
 
-### ⚠️ Known Issue: `requirements.txt` is broken
-`requirements.txt` lists `os` (a Python stdlib module, not a pip package). Running `pip install -r requirements.txt` will fail. **Always install manually:**
+### Install dependencies
 ```bash
-pip install pandas scikit-learn matplotlib joblib numpy
+pip install -r requirements.txt
 ```
+`requirements.txt` contains pinned versions: `pandas==2.3.3`, `scikit-learn==1.8.0`, `matplotlib==3.10.8`, `joblib==1.5.3`, `numpy==2.4.1`. This command installs successfully.
 
 ### Run the notebook
 ```bash
-pip install pandas scikit-learn matplotlib joblib numpy
+pip install -r requirements.txt
 jupyter notebook src/cardioia_fase2.ipynb
 ```
 - Trained models are saved to `src/models/cardioia_modelo.pkl` and `src/models/cardioia_tfidf.pkl`.
