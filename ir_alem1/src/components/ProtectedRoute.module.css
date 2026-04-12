@@ -1,0 +1,40 @@
+.accessDenied {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-12) var(--space-4);
+  text-align: center;
+  min-height: 40vh;
+}
+
+.accessDenied h1 {
+  color: var(--color-error);
+  font-size: clamp(1.5rem, 4vw, 2rem);
+  margin-bottom: var(--space-4);
+}
+
+.accessDenied p {
+  color: var(--color-text-muted);
+  font-size: 1rem;
+  max-width: 400px;
+  margin-bottom: var(--space-6);
+}
+
+.loginLink {
+  display: inline-block;
+  padding: var(--space-3) var(--space-6);
+  background-color: var(--color-primary);
+  color: #ffffff !important;
+  border-radius: var(--radius);
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.loginLink:hover {
+  background-color: var(--color-primary-hover) !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
