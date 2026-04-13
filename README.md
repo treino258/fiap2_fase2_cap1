@@ -257,7 +257,7 @@ numpy==2.4.1
 ```
 ## Demonstração
 
-> 🎥 Link do vídeo no YouTube: `[a ser adicionado]`
+> 🎥 Link do vídeo no YouTube: `https://drive.google.com/file/d/1YVsH23ozjEp8MpTIW3XoGFHW0qLxMt0i/view?usp=sharing`
 
 ## Ir Além 1 — Portal Front-end (React + Vite)
 
