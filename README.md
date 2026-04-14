@@ -257,7 +257,7 @@ numpy==2.4.1
 ```
 ## Demonstração
 
-> 🎥 Link do vídeo no YouTube: `https://www.youtube.com/watch?v=i6u6GHTPUq0`
+> 🎥 Link do vídeo no YouTube: <a href="https://www.youtube.com/watch?v=i6u6GHTPUq0">`https://www.youtube.com/watch?v=i6u6GHTPUq0`</a>
 
 ## Ir Além 1 — Portal Front-end (React + Vite)
 
@@ -265,7 +265,7 @@ Módulo web com autenticação simulada, listagem de pacientes, dashboard e agen
 
 ➡️ Documentação específica: [`ir_alem1/README.md`](ir_alem1/README.md)
 
-> 🎥 Link do vídeo no YouTube: `https://www.youtube.com/watch?v=QQLBkdXiM2w`
+> 🎥 Link do vídeo no YouTube: <a href="https://www.youtube.com/watch?v=QQLBkdXiM2w">`https://www.youtube.com/watch?v=QQLBkdXiM2w`</a>
 
 ---
 
@@ -275,6 +275,6 @@ Módulo de visão computacional para classificação binária de sinais de ECG (
 
 ➡️ Documentação específica: [`ir_alem2/README.md`](ir_alem2/README.md)
 
-> 🎥 Link do vídeo no YouTube: `https://www.youtube.com/watch?v=-4_VQP2DVqs`
+> 🎥 Link do vídeo no YouTube: <a href="https://www.youtube.com/watch?v=-4_VQP2DVqs">`https://www.youtube.com/watch?v=-4_VQP2DVqs`</a>
 
 ---
