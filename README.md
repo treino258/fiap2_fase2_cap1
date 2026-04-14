@@ -257,13 +257,15 @@ numpy==2.4.1
 ```
 ## Demonstração
 
-> 🎥 Link do vídeo no YouTube: `https://drive.google.com/file/d/1YVsH23ozjEp8MpTIW3XoGFHW0qLxMt0i/view?usp=sharing`
+> 🎥 Link do vídeo no YouTube: `https://www.youtube.com/watch?v=i6u6GHTPUq0`
 
 ## Ir Além 1 — Portal Front-end (React + Vite)
 
 Módulo web com autenticação simulada, listagem de pacientes, dashboard e agendamento de consultas, desenvolvido para o escopo de interface do projeto CardioIA.
 
 ➡️ Documentação específica: [`ir_alem1/README.md`](ir_alem1/README.md)
+
+> 🎥 Link do vídeo no YouTube: `https://www.youtube.com/watch?v=QQLBkdXiM2w`
 
 ---
 
@@ -272,5 +274,7 @@ Módulo web com autenticação simulada, listagem de pacientes, dashboard e agen
 Módulo de visão computacional para classificação binária de sinais de ECG (normal vs anormal), com notebook em Google Colab e comparação de arquiteturas.
 
 ➡️ Documentação específica: [`ir_alem2/README.md`](ir_alem2/README.md)
+
+> 🎥 Link do vídeo no YouTube: `https://www.youtube.com/watch?v=-4_VQP2DVqs`
 
 ---

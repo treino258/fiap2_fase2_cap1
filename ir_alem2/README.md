@@ -110,7 +110,7 @@ O notebook produz:
 
 
 ## Video
-    https://drive.google.com/file/d/1mJpmKL0VsVvlQF7JhGMaA7v3v4SoZ3mL/view?usp=sharing
+    https://www.youtube.com/watch?v=-4_VQP2DVqs
 
 ## Autores
 

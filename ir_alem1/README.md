@@ -6,7 +6,7 @@ Aplicação front-end interativa que simula a rotina de um portal de diagnóstic
 
 ## 🎬 Vídeo de Demonstração
 
-> ⚠️ **[INSERIR LINK DO YOUTUBE AQUI]**  
+> https://www.youtube.com/watch?v=QQLBkdXiM2w
 > O vídeo deve estar publicado como "não listado" no YouTube e demonstrar o funcionamento completo da solução.
 
 ## ✨ Funcionalidades
